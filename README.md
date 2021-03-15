@@ -1,1 +1,1 @@
-# python_study_project
+# Making Thumbnail image

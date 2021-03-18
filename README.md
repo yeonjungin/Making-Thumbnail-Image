@@ -5,4 +5,8 @@
 배경색상은 랜덤으로 변경된다.
 글자수는 33자 미만까지만 가능하게 설정되어 있다.
 
+폰트는 자유롭게 변경이 가능하다.
+run.py 파일에서 아래 해당하는 코드를 찾아서, 변경해주면 된다.
+font = ImageFont.truetype('폰트파일 전체경로 적기', size=50)
+
 ![image](https://user-images.githubusercontent.com/47666431/111150411-68edb500-85d1-11eb-9053-3ccc0e4f1213.png)
